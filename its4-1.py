@@ -18,8 +18,6 @@ for i in range(2*(10**10), 4*(10**10)):
             continue
     else:
         continue
-
-    print(i)
     
     if k == 0:
         count+=1
